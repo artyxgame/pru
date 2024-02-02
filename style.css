@@ -1,0 +1,45 @@
+body.index {
+    background-color: black;
+}
+header.index {
+    text-align: center;
+    color: white;
+}
+p.index1 {
+    text-align: center;
+}
+/* -------- */
+body.inicio {
+    background-color: black;
+}
+header.inicio {
+    text-align: center;
+    color: red;
+}
+p.pelis1 {
+    color: white;
+    position: relative;
+    left: 30px;
+}
+table.inicio {
+    position: relative;
+    left: 20px;
+    text-align: center;
+    color: white;
+    border: blue 1px solid;
+}
+td.inicio1 {
+    text-align: center;
+    border: red 1px solid;
+}
+td.inicio2 {
+    border: white 2px solid;
+}
+td.a {
+    color: black;
+}
+footer.inicio {
+    text-align: center;
+}
+
+/* ----------- */
